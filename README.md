@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus)
 
-- 👨‍💻 All of my projects are available at [to be added!](to be added!)
+<!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
 
-- 📝 I regularly write articles on [dev.to/](dev.to/)
+<!-- - 📝 I regularly write articles on [dev.to/](dev.to/) -->
 
 - 💬 Ask me about **React, PostgreSQL, Express, Node**
 
