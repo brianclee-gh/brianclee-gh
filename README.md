@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **blee0613@gmail.com**
 
-- 📄 Know about my experiences [PUT IN HERE](PUT IN HERE)
+<!-- - 📄 Know about my experiences [PUT IN HERE](PUT IN HERE) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
