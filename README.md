@@ -2,18 +2,12 @@
 <h3 align="center">A passionate frontend developer from the SF Bay Area</h3>
 
 - 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd)
-
 - 🌱 I’m currently learning **Docker**
-
 - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus)
-
-<!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
-
-<!-- - 📝 I regularly write articles on [dev.to/](dev.to/) -->
-
 - 💬 Ask me about **React, PostgreSQL, Express, Node**
-
 - 📫 How to reach me **blee0613@gmail.com**
+<!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
+<!-- - 📝 I regularly write articles on [dev.to/](dev.to/) -->
 
 <!-- - 📄 Know about my experiences [PUT IN HERE](PUT IN HERE) -->
 
@@ -75,6 +69,7 @@
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   </span>
   
+  <h3 align="left">Stats:</h3>
   
   [![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianclee-gh)](https://github.com/anuraghazra/github-readme-stats)
 
