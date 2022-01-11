@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate frontend developer from the SF Bay Area</h3>
 
-- 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd)
-- 🌱 I’m currently learning **Docker**
-- 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus)
-- 💬 Ask me about **React, PostgreSQL, Express, Node**
+<!-- - 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd) -->
+<!-- - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus) -->
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **Go, React, PostgreSQL, Express, Node**
 - 📫 How to reach me **blee0613@gmail.com**
 <!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
 <!-- - 📝 I regularly write articles on [dev.to/](dev.to/) -->
@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   </span>
 
 <h4>Front End</h4>
