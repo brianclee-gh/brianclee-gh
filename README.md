@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate frontend developer from the SF Bay Area</h3>
+<h3 align="center">A passionate full-stack developer from the SF Bay Area</h3>
 
 <!-- - 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd) -->
 <!-- - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus) -->
