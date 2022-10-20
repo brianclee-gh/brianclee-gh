@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd) -->
 <!-- - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus) -->
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Go, React, PostgreSQL, Express, Node**
 - 📫 How to reach me **blee0613@gmail.com**
 <!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
