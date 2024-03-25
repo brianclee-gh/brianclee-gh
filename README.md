@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate full-stack developer from the SF Bay Area</h3>
 
 <!-- - 🔭 I’m currently working on [Bookboxd](https://github.com/brianclee-gh/bookboxd) -->
 <!-- - 👯 I’m looking to collaborate on [WoW MPlus Guide](https://github.com/brianclee-gh/wow-mplus) -->
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **Go, React, PostgreSQL, Express, Node**
-- 📫 How to reach me **blee0613@gmail.com**
+- 💬 Ask me about **Go, React, Typescript, Python, Node**
+- 📫 How to reach me **brianclee.dev@gmail.com**
 <!-- - 👨‍💻 All of my projects are available at [to be added!](to be added!) -->
 <!-- - 📝 I regularly write articles on [dev.to/](dev.to/) -->
 
