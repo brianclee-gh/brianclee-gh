@@ -69,8 +69,8 @@
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   </span>
   
-  <h3 align="left">Stats:</h3>
+ <!-- <h3 align="left">Stats:</h3> -->
   
-  [![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianclee-gh)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianclee-gh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
